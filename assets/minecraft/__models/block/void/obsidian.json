@@ -1,6 +1,0 @@
-{
-    "parent": "block/void/xray_all",
-    "textures": {
-        "all": "block/obsidian"
-    }
-}

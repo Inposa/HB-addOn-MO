@@ -1,6 +1,0 @@
-{
-    "parent": "block/solid/solid_all",
-    "textures": {
-        "all": "block/dirt"
-    }
-}
